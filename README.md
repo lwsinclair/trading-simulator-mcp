@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/recallnet-trading-simulator-mcp-badge.png)](https://mseep.ai/app/recallnet-trading-simulator-mcp)
+
 # Trading Simulator MCP Server
 
 An MCP (Model Context Protocol) server for interacting with the Trading Simulator API. This server enables AI models like Claude to check balances, check prices, and execute trades via an MCP-compatible interface.
